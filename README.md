@@ -3,6 +3,8 @@
 [![Watch the video](Booking.jpg)](https://drive.google.com/file/d/167tlKQNTS37xmmKdshFWIwB2no8EjgNu/view?usp=sharing)
 
 Booking Video Link - https://drive.google.com/file/d/167tlKQNTS37xmmKdshFWIwB2no8EjgNu/view?usp=sharing
+Reschedule Booking Video Link - https://drive.google.com/file/d/1DxG6slxHTdlzNUJvbRiDyLqvGEv9vP8M/view?usp=sharing
+Cancel Booking Video Link - https://drive.google.com/file/d/1R_K9rTQXjpb1Pqa_O458jniuxMQau7Cj/view?usp=sharing
 
 ## Project Overview
 
