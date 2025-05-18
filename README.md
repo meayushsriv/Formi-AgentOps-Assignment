@@ -1,6 +1,6 @@
 # Barbeque Nation Inbound Enquiry & Booking Chatbot Agent
 
-![Reservation Booking](booking.mp4)
+[![Watch the video](Booking.jpg)](https://drive.google.com/file/d/167tlKQNTS37xmmKdshFWIwB2no8EjgNu/view?usp=sharing)
 
 ## Project Overview
 
