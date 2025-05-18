@@ -219,8 +219,6 @@ Q: "Thanks for sharing that. Would you like us to arrange a callback?"
 
 Ask for callback date and time
 
-Run escalate_complaint(<city>, <location>, <details>, <callback_datetime>)
-
 End with: "Got it! We’ll get back to you shortly. Have a great day!"
 
 [ If user wants to cancel or modify a reservation → ]
