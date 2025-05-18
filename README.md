@@ -2,6 +2,8 @@
 
 [![Watch the video](Booking.jpg)](https://drive.google.com/file/d/167tlKQNTS37xmmKdshFWIwB2no8EjgNu/view?usp=sharing)
 
+Booking Video Link - https://drive.google.com/file/d/167tlKQNTS37xmmKdshFWIwB2no8EjgNu/view?usp=sharing
+
 ## Project Overview
 
 This project is aimed at building a conversational chatbot agent for Barbeque Nation outlets in Delhi and Bangalore. The chatbot handles inbound enquiries including FAQs, new bookings, booking modifications (like rescheduling or cancellations), and complaint logging. It uses multiple integrations such as webhooks, Google Sheets, Pabbly Connect, Cal.com, and conversational AI hooks to manage smooth booking and communication flows.
